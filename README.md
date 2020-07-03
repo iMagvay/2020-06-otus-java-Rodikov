@@ -1,2 +1,13 @@
-# 2020-06-otus-java-Rodikov
-# Rodikov Boris repositiry for otus task.
+Примеры для курса "Разработчик Java" в OTUS
+Группа 2020-06
+
+Преподаватели
+Сергей Петрелевич
+Стрекалов Павел
+Александр Оруджев
+Вячеслав Лапин
+Виталий Куценко
+
+Студент:
+Борис Родиков (Boris Rodikov)
+rodikovbg@gmail.com
